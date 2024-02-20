@@ -1,0 +1,3 @@
+run file 13.in
+part1 ans: 412
+part2 ans: 20940
